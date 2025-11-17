@@ -1,13 +1,13 @@
 # Career Navigator API
 
 API desenvolvida em **C# .NET 8**, utilizando **Entity Framework Core**, organizada em arquitetura de **Controllers**, **Services**, **Repositories** e **Models**.  
-O objetivo do sistema é gerenciar usuários, habilidades, metaskills, carreiras futuras e análises de GAP profissional.
+O objetivo do sistema é gerenciar usuários, habilidades, carreiras futuras e análises de GAP profissional.
 
 ---
 
 ## 📌 Funcionalidades da API
 
-A API possui 5 módulos principais:
+A API possui 4 módulos principais:
 
 ### 1. **Users**
 
@@ -24,14 +24,14 @@ A API possui 5 módulos principais:
 - Atualizar skill
 - Deletar skill
 
-### 4. **Future Careers**
+### 3. **Future Careers**
 
 - Cadastrar carreiras futuras
 - Listar carreiras
 - Atualizar carreira
 - Remover carreira
 
-### 5. **Career Gap Analysis**
+### 4. **Career Gap Analysis**
 
 Compara:
 

@@ -150,3 +150,4 @@ C:\Users\Acussena\Desktop\FIAP-GS\csharp\gs_csharp\obj\Debug\net9.0\refint\gs_cs
 C:\Users\Acussena\Desktop\FIAP-GS\csharp\gs_csharp\obj\Debug\net9.0\gs_csharp.pdb
 C:\Users\Acussena\Desktop\FIAP-GS\csharp\gs_csharp\obj\Debug\net9.0\gs_csharp.genruntimeconfig.cache
 C:\Users\Acussena\Desktop\FIAP-GS\csharp\gs_csharp\obj\Debug\net9.0\ref\gs_csharp.dll
+C:\Users\Acussena\Desktop\FIAP-GS\csharp\gs_csharp\obj\Debug\net9.0\gs_csharp.sourcelink.json

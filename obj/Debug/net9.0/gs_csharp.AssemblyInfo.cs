@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gs_csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+622aa053ff34d643c2af609deda6b61a9b3ab5c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("gs_csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gs_csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

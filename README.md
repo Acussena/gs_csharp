@@ -44,10 +44,9 @@ E retorna:
 
 ---
 
-
-´´´
 ## 📁 Estrutura do Projeto
 
+```bash
 │
 ├── Controllers/v1/
 │ ├── FutureCareersController.cs
@@ -82,7 +81,7 @@ E retorna:
 │ └── UserSkillService.cs
 │
 └── appsettings.Development.json
-´´´
+```
 
 ### 📂 **Arquitetura**
 

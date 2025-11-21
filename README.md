@@ -44,6 +44,8 @@ E retorna:
 
 ---
 
+
+´´´
 ## 📁 Estrutura do Projeto
 
 │
@@ -80,6 +82,7 @@ E retorna:
 │ └── UserSkillService.cs
 │
 └── appsettings.Development.json
+´´´
 
 ### 📂 **Arquitetura**
 
